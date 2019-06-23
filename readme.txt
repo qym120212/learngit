@@ -7,3 +7,5 @@ Git is free software distributed under the GPL.
 Git Demo
 
 push github
+
+Creating a new branch is quick.
